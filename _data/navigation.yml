@@ -3,9 +3,9 @@ docs-en:
     children:
       - title:  Archive
         url:    archive.html
-      ...
+      
   - title:      About
     children:
       - title:  About
         url:    about.html
-      ...
+      
