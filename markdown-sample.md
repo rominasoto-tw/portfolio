@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Markdown Sample
-permalink: resume.html
+permalink: markdown-sample.html
 key: page-sidebar-aside
 cover: /docs/assets/images/axure/page-sidebar-aside.jpg
 aside:
