@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Page - Sidebar (Aside)
-permalink: /markdown-sample.md
+permalink: /page/sidebar-aside.html
 key: page-sidebar-aside
 cover: /docs/assets/images/axure/page-sidebar-aside.jpg
 aside:
@@ -10,8 +10,29 @@ sidebar:
   nav: layouts
 ---
 
-# header 1
+A post with a left sidebar.
 
-## header 2
+<!--more-->
 
-### header 3
+**front matter:**
+
+    ---
+    layout: article
+    title: Page - Sidebar
+    aside:
+      toc: true
+    sidebar:
+      nav: layouts
+    ---
+
+## Header 1
+
+### Header 1.1
+
+### Header 1.2
+
+## Header 2
+
+### Header 2.1
+
+## Header 3
