@@ -10,49 +10,65 @@ sidebar:
   nav: docs-en
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+This is a digital version of my resume. Further information is available on my LinkedIn.
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+## Personal Information
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+<img src="https://media-exp3.licdn.com/dms/image/C4D03AQFq2e2CdTR5vQ/profile-displayphoto-shrink_200_200/0/1539183976974?e=1628726400&v=beta&t=ekAjlFzb3AWZRc4QVUoBb6rA3whMXBeyWGHv6YBjSmU" alt="My Profile Pic" align="right" />
 
-## Features
+* **Full Name:** Romina Soledad Soto.
+* **LinkedIn Profile:** <a href="https://www.linkedin.com/in/romina-soto-098b4139/" target="_blank">click here to be redirected.</a>
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+&nbsp;
 
-## Skins
+## Work Experience
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+### Technical Writer at Intraway
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+*Employed November 2020 – Present.*
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+* **Location:** Buenos Aires, Argentina.
+* **Duties:** currently in charge of producing high-quality technical documentation that contributes to the overall success of Intraway’s products, both in English & Spanish.
+My current responsibilities include creating documentation in an online environment with real time updates following the development team, developing easy-to-navigate documentation applying usability criteria, and writing/editing technical documentation for the organization’s products, as well as translating it (English into Spanish and Spanish into English). I also occassionally collaborate with interviews to new candidates, and functional testing tasks.
 
-### Highlight Theme
+&nbsp;
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+### Technical Writer & Application Trainer at Kapsch Trafficcom
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+*Employed July 2019 - November 2020.*
+
+* **Location:** Buenos Aires, Argentina.
+* **Duties:** as part of the *Documentation & Training department* my tasks involved the planning, development, and delivery of internal and external training on the Back Office System developed in Argentina, as well as producing on-demand learning materials, such as user manuals, presentations, e-learning, training videos and webinars.
+I was also in charge of training sessions, demos, and system walkthroughs, for both internal and external clients. I also collaborated with the Onboarding of new hires.
+
+&nbsp;
+
+### Freelance Illustrator at Weeblebooks
+
+*Employed January 2017 - March 2020.*
+
+* **Location:** Madrid, Spain. Remote position.
+* **Duties:** Illustrator of children’s books. Software used for digital illustrations: Adobe illustrator, Adobe Photoshop. Traditional media: acrylics, watercolors, pencils, mixed.
+
+&nbsp;
+
+### English Teacher at Lew Idiomas
+
+*Employed June 2012 - March 2020.*
+
+* **Location:** Buenos Aires, Argentina.
+* **Duties:** as an *English Teacher* my tasks included designing and delivering classes and workshops to both groups and private students. Classes were designed & delivered by me, and taylored to their needs, interests and level. I've also worked in companies as a culture and language trainer, educating employees on the proper use of American English, as well as designing and offering workshops on site, based on the analysis of client needs and the feedback given to workers.
+
+&nbsp;
+
+### Head of Practical Classes - Informatics, Education, and Society - UBA, School of Psychology
+
+*Employed July 2011 - June 2019.*
+
+* **Location:** Buenos Aires, Argentina.
+* **Duties:** I was the Head of Practical Classes for a university subject called *Informatics, Education and Society* - an
+analysis of the impact of new tech on the dynamics between people, education, markets. My tasks included managing practical classes teachers, designing and teaching theoretical classes, research for University Projects, and tutoring grad thesis students.
+
+&nbsp;
+
+## Education
