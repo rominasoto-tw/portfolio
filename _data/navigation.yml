@@ -1,11 +1,11 @@
 docs-en:
-  - title:      Start
+  - title:      Archive
     children:
       - title:  Archive
         url:    archive.html
       ...
-  - title:      Customization
+  - title:      About
     children:
       - title:  About
-        url:    about.md
+        url:    about.html
       ...
