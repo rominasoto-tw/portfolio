@@ -12,18 +12,21 @@ sidebar:
 
 This is a digital version of my resume. Further information is available on my LinkedIn.
 
-## Personal Information
+# Personal Information
 
 <img src="https://media-exp3.licdn.com/dms/image/C4D03AQFq2e2CdTR5vQ/profile-displayphoto-shrink_200_200/0/1539183976974?e=1628726400&v=beta&t=ekAjlFzb3AWZRc4QVUoBb6rA3whMXBeyWGHv6YBjSmU" alt="My Profile Pic" align="right" />
+
+&nbsp;
+&nbsp;
 
 * **Full Name:** Romina Soledad Soto.
 * **LinkedIn Profile:** <a href="https://www.linkedin.com/in/romina-soto-098b4139/" target="_blank">click here to be redirected.</a>
 
 &nbsp;
 
-## Work Experience
+# Work Experience
 
-### Technical Writer at Intraway
+## Technical Writer at Intraway
 
 *Employed November 2020 – Present.*
 
@@ -33,7 +36,7 @@ My current responsibilities include creating documentation in an online environm
 
 &nbsp;
 
-### Technical Writer & Application Trainer at Kapsch Trafficcom
+## Technical Writer & Application Trainer at Kapsch Trafficcom
 
 *Employed July 2019 - November 2020.*
 
@@ -43,7 +46,7 @@ I was also in charge of training sessions, demos, and system walkthroughs, for b
 
 &nbsp;
 
-### Freelance Illustrator at Weeblebooks
+## Freelance Illustrator at Weeblebooks
 
 *Employed January 2017 - March 2020.*
 
@@ -52,7 +55,7 @@ I was also in charge of training sessions, demos, and system walkthroughs, for b
 
 &nbsp;
 
-### English Teacher at Lew Idiomas
+## English Teacher at Lew Idiomas
 
 *Employed June 2012 - March 2020.*
 
@@ -61,7 +64,7 @@ I was also in charge of training sessions, demos, and system walkthroughs, for b
 
 &nbsp;
 
-### Head of Practical Classes - Informatics, Education, and Society - UBA, School of Psychology
+## Head of Practical Classes - Informatics, Education, and Society - UBA, School of Psychology
 
 *Employed July 2011 - June 2019.*
 
@@ -71,4 +74,4 @@ analysis of the impact of new tech on the dynamics between people, education, ma
 
 &nbsp;
 
-## Education
+# Education
