@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Page - Sidebar (Aside)
-permalink: /page/sidebar-aside.html
+permalink: /markdown-sample.md
 key: page-sidebar-aside
 cover: /docs/assets/images/axure/page-sidebar-aside.jpg
 aside:
