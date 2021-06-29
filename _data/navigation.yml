@@ -1,8 +1,4 @@
 docs-en:
-  - title:      Archive
-    children:
-      - title:  Archive
-        url:    archive.html
       
   - title:      About Me
     children:
@@ -15,4 +11,15 @@ docs-en:
     children:
       - title:  Markdown Sample
         url:    markdown-sample.html
+      - title:  Confluence Sample
+        url:    https://rominasoto.atlassian.net/wiki/spaces/ROM/overview
+      - title:  PDF Samples
+        url:    pdf-sample.html
+      - title:  Sample Tutorial
+        url:    tutorial-sample.html
+
+  - title:      Blog Archive
+    children:
+      - title:  Access Archive
+        url:    archive.html
       
