@@ -4,8 +4,10 @@ docs-en:
       - title:  Archive
         url:    archive.html
       
-  - title:      About
+  - title:      About Me
     children:
       - title:  About
         url:    about.html
+      - title:  Resume
+        url:    resume.html
       
