@@ -10,4 +10,9 @@ docs-en:
         url:    about.html
       - title:  Resume
         url:    resume.html
+
+  - title:      Work Samples
+    children:
+      - title:  Markdown Sample
+        url:    markdown-sample.html
       

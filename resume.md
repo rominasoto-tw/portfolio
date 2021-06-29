@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Page - Sidebar (Aside)
+title: My Resume
 permalink: resume.html
 key: page-sidebar-aside
 cover: /docs/assets/images/axure/page-sidebar-aside.jpg
