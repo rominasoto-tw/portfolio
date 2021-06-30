@@ -28,8 +28,6 @@ sidebar:
   nav: docs-en
 ---
 
-# About Me
-
 Psychology Graduate from the University of Buenos Aires. Currently working at Intraway as Technical Writer. I'm in charge of producing high-quality technical documentation that contributes to the overall success of Intraway’s products. I also occasionally perform with functional testing tasks.
 
 I've Previously worked in training development and delivery, as well as in the fields of education, technology and research. I'm passionate about new tech, AI, and the development of new social interaction dynamics through technological innovation.
