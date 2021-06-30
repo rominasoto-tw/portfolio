@@ -15,11 +15,7 @@ This is a brief sample tutorial on how to create a GitHub Repository that I crea
 
 To create a GitHub repository, locate the ![Plus](/assets/images/create-git-repo/button-plus.png) button. Click on it to display the menu then select the **New repository** option.
 
-<div style="width:100%; margin:2 auto;" align="center" markdown="1">
-    ![Create a Repository - Menu options](/assets/images/create-git-repo/image-1.png){:.circle.shadow}
-</div>
-
-![Create a Repository - Menu options](/assets/images/create-git-repo/image-1.png)
+![Create a Repository - Menu options](/assets/images/create-git-repo/image-1.png){:.circle.shadow}
 
 This will display the **Create a new repository** screen.
 
