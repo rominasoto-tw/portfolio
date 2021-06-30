@@ -1,11 +1,13 @@
 docs-en:
       
-  - title:      About Me
+  - title:      About
     children:
-      - title:  About
+      - title:  About Me
         url:    about.html
       - title:  Resume
         url:    resume.html
+      - title:  My LinkedIn
+        url:    https://www.linkedin.com/in/romina-soto-098b4139/
 
   - title:      Work Samples
     children:
