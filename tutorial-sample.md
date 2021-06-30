@@ -17,16 +17,7 @@ To create a GitHub repository, locate the ![Plus](/assets/images/create-git-repo
 
 <div class="card">
   <div class="card__image">
-    <img class="image" src="assets/images/create-git-repo/image-1.png"/>
-    <div class="overlay overlay--bottom">
-      <p>Create a Repository - Menu options</p>
-    </div>
-  </div>
-</div>
-
-<div class="card">
-  <div class="card__image">
-    <img class="image" src="/assets/images/create-git-repo/image-1.png"/>
+    <img class="image" src="assets/images/create-git-repo/image-1.png" style="width: 100%;max-height: 100%"/>
     <div class="overlay overlay--bottom">
       <p>Create a Repository - Menu options</p>
     </div>
