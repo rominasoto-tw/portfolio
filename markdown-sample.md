@@ -18,7 +18,7 @@ Headings and their hierarchy are established using #
 
 So, the way to create different sizes of titles and subtitles, like this:
 
-![Titles example](/assets/images/using-markdown/image-1.png)
+![Titles example](/assets/images/using-markdown/image-1.png){:.border.shadow}
 
 Is to type them in this way, using #:
 
@@ -158,7 +158,7 @@ To write `inline code` write this:
 
 To write a code block write this:
 
-![codeblock](/assets/images/using-markdown/img-code-01.png)
+![codeblock](/assets/images/using-markdown/img-code-01.png){:.border.shadow}
 
 The text will display "boxed", like this:
 
@@ -177,7 +177,7 @@ foo(3)
 
 By writing this:
 
-![codeblock with highlights](/assets/images/using-markdown/img-code-03.png)
+![codeblock with highlights](/assets/images/using-markdown/img-code-03.png){:.border.shadow}
 
 You can also add line numbers to the code:
 
@@ -190,7 +190,7 @@ foo(3)
 
 By writing this:
 
-![codeblock with line numbers](/assets/images/using-markdown/img-code-02.png)
+![codeblock with line numbers](/assets/images/using-markdown/img-code-02.png){:.border.shadow}
 
 &nbsp;
 

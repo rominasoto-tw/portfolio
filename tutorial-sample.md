@@ -19,11 +19,11 @@ To create a GitHub repository, locate the ![Plus](/assets/images/create-git-repo
 
 This will display the **Create a new repository** screen.
 
-![Create a Repository - Create a new repository](/assets/images/create-git-repo/image-2.png)
+![Create a Repository - Create a new repository](/assets/images/create-git-repo/image-2.png){:.border.shadow}
 
 Here, you must first enter a name for your repository. If the name is available, a green tick symbol will indicate so.
 
-![Create a Repository - Name available](/assets/images/create-git-repo/image-3.png)
+![Create a Repository - Name available](/assets/images/create-git-repo/image-3.png){:.border.shadow}
 
 This screen contains the following fields:
 
@@ -38,4 +38,4 @@ After you've completed the required information on this screen, and selected the
 
 The contents of your newly created repository will display as a result, and you can start working on it:
 
-![Create a Repository - New repository created](/assets/images/create-git-repo/image-4.png)
+![Create a Repository - New repository created](/assets/images/create-git-repo/image-4.png){:.border.shadow}
