@@ -24,4 +24,11 @@ docs-en:
     children:
       - title:  Access Archive
         url:    archive.html
+
+  - title:      Template
+    children:
+      - title:  Credit
+        url:    credit.html
+      - title:  GitHub repo
+        url:    https://github.com/kitian616/jekyll-TeXt-theme/
       
