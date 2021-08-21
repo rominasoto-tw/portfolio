@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Comfluence Sample
+title: Confluence Sample
 permalink: confluence.html
 key: page-sidebar-aside
 cover: /docs/assets/images/axure/page-sidebar-aside.jpg
