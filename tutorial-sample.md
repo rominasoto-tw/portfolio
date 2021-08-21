@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Sample Tutorial
+title: Sample Tutorial 1
 permalink: tutorial-sample.html
 key: page-sidebar-aside
 cover: /docs/assets/images/axure/page-sidebar-aside.jpg

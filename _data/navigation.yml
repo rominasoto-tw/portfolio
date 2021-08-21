@@ -14,11 +14,11 @@ docs-en:
       - title:  Markdown Sample
         url:    markdown-sample.html
       - title:  Confluence Sample
-        url:    https://rominasoto.atlassian.net/wiki/spaces/ROM/overview
-      - title:  PDF Samples
-        url:    pdf-sample.html
-      - title:  Sample Tutorial
+        url:    https://rominasoto.atlassian.net/wiki/spaces/DOCUMENTS/overview
+      - title:  Sample Tutorial 1
         url:    tutorial-sample.html
+      - title:  Sample Tutorial 2
+        url:    tutorial-sample2.html
 
   - title:      Blog Archive
     children:
