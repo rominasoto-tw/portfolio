@@ -10,7 +10,7 @@ sidebar:
   nav: docs-en
 ---
 
-As confluence does not allow free sites to be viewed by anonymous users, I have exported my Confluence samples into the following formats:
+As confluence does not allow free spaces to be viewed by anonymous users, I have exported my Confluence samples into the following formats:
 
 
 * <a href="https://drive.google.com/file/d/11U60cFXkvTJAg2giBIhxdo3FiK9cRy_Y/view?usp=sharing" target="_blank">PDF</a>
