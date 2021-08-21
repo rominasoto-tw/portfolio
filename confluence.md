@@ -17,4 +17,4 @@ As confluence does not allow free sites to be viewed by anonymous users, I have 
 * <a href="https://drive.google.com/file/d/1PDpjyux5PIpmoOx1b8GIFeg9oQDjBzcC/view?usp=sharing" target="_blank">XML</a>
 * <a href="https://drive.google.com/file/d/1JAJ4WXsFTDCV0QjfvL5EXoPMzdTBrEfa/view?usp=sharing" target="_blank">HTML</a>
 
-Click on any of the options to download the file. You can view the PDF directly. XML and HTML files, can be imported into your Confluence for you to see a working example.
+Click on any of the options to download the file. You can view the PDF directly. XML and HTML files are zipped, ready to be imported into your Confluence for you to see a working sample.
