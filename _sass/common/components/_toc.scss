@@ -20,7 +20,6 @@ ul.toc {
     a {
       @include link-colors($text-color, $main-color-1);
     }
-    @include overflow(visible);
     &.active {
       a {
         @include link-colors($main-color-1);
@@ -56,6 +55,7 @@ ul.toc {
   .toc-h2 {
     &, a {
       font-weight: map-get($base, font-weight-bold);
+      @include overflow(visible);
     }
   }
   .toc-h3 {
