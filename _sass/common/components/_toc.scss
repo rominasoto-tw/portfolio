@@ -20,6 +20,7 @@ ul.toc {
     a {
       @include link-colors($text-color, $main-color-1);
     }
+    overflow: visible;
     &.active {
       a {
         @include link-colors($main-color-1);
