@@ -14,7 +14,7 @@ This is a digital version of my resume. Further information is available on my L
 
 # Personal Information
 
-<img src="https://media-exp3.licdn.com/dms/image/C4D03AQFq2e2CdTR5vQ/profile-displayphoto-shrink_200_200/0/1539183976974?e=1628726400&v=beta&t=ekAjlFzb3AWZRc4QVUoBb6rA3whMXBeyWGHv6YBjSmU" alt="My Profile Pic" align="right" />
+<img src="/assets/images/linkedinprofilepic.jpg" alt="My Profile Pic" align="right" />
 
 &nbsp;
 &nbsp;
@@ -26,13 +26,26 @@ This is a digital version of my resume. Further information is available on my L
 
 # Work Experience
 
-## Technical Writer at Intraway
+## Technical Writer & Communicator Ssr at Mercado Libre
 
-*Employed November 2020 – Present.*
+*Employed September 2021 - Continues.*
 
 * **Location:** Buenos Aires, Argentina.
-* **Duties:** currently in charge of producing high-quality technical documentation that contributes to the overall success of Intraway’s products, both in English & Spanish.
-My current responsibilities include creating documentation in an online environment with real time updates following the development team, developing easy-to-navigate documentation applying usability criteria, and writing/editing technical documentation for the organization’s products, as well as translating it (English into Spanish and Spanish into English). I also occassionally collaborate with interviews to new candidates, and functional testing tasks.
+* **Duties:** As a technical writer & communicator at Mercado Libre, I work in the Developer Communications department, part of DX (developer experience). I create Git based documentation, such as API documentation, and integration guides to help developers in the <dev>program carry out successful integrations with our Mercado Pago payment solutions for their clients.
+I work with people from other teams to create communication campaigns to inform sellers of different events, such as products deprecation or discontinuation.
+My work also involves being constantly in contact with other teams, as well as documentation project stakeholders, and work with them to create effective documents that meet their needs as well as our excellence standards.
+At my current role, I put my experience to work by developing an onboarding experience for future team members, guides my team can follow in order to ensure a homogenic final product, GitHub & markdown tutorials for current and future team members with less technical experience, and a traceability plan complementing Jira & GitHub that ensures maximum traceability of our tasks with minimum team effort.
+I also occassionally interview new candidates for my team.
+
+&nbsp;
+
+## Technical Writer at Intraway
+
+*Employed November 2020 – September 2021.*
+
+* **Location:** Buenos Aires, Argentina.
+* **Duties:** I was in charge of producing high-quality technical documentation that contributes to the overall success of Intraway’s products, both in English & Spanish.
+My current responsibilities include creating documentation in an agile online environment with real time updates following the development team, developing easy-to-navigate documentation applying usability criteria, and writing/editing technical documentation for the organization’s products, as well as translating it (English into Spanish and Spanish into English). I also occassionally collaborated with interviews to new candidates, as well as functional testing tasks.
 
 &nbsp;
 
@@ -43,15 +56,6 @@ My current responsibilities include creating documentation in an online environm
 * **Location:** Buenos Aires, Argentina.
 * **Duties:** as part of the *Documentation & Training department* my tasks involved the planning, development, and delivery of internal and external training on the Back Office System developed in Argentina, as well as producing on-demand learning materials, such as user manuals, presentations, e-learning, training videos and webinars.
 I was also in charge of training sessions, demos, and system walkthroughs, for both internal and external clients. I also collaborated with the Onboarding of new hires.
-
-&nbsp;
-
-## Freelance Illustrator at Weeblebooks
-
-*Employed January 2017 - March 2020.*
-
-* **Location:** Madrid, Spain. Remote position.
-* **Duties:** Illustrator of children’s books. Software used for digital illustrations: Adobe illustrator, Adobe Photoshop. Traditional media: acrylics, watercolors, pencils, mixed.
 
 &nbsp;
 

@@ -28,6 +28,10 @@ sidebar:
   nav: docs-en
 ---
 
-Psychology Graduate from the University of Buenos Aires. Currently working at Intraway as Technical Writer. I'm in charge of producing high-quality technical documentation that contributes to the overall success of Intraway’s products. I also occasionally perform with functional testing tasks.
+Psychology Graduate from the University of Buenos Aires. Currently working at Mercado Libre as a Technical Writer & Communicator. I'm part of a wonderful team that is in charge of producing high-quality Git based documentation, such as API documentation, and integration guides to help developers in the <dev>program carry out successful integrations for their clients, using our Mercado Pago payment solutions.
 
-I've Previously worked in training development and delivery, as well as in the fields of education, technology and research. I'm passionate about new tech, AI, and the development of new social interaction dynamics through technological innovation.
+At my current role, I put my experience to work by using my own learning curve at the company to develop an onboarding experience for future team members, guides my team can follow in order to ensure a homogenic final product, GitHub & markdown tutorials for current and future team members with less technical experience, and a traceability plan complementing Jira & GitHub that ensures maximum traceability of our tasks with minimum team effort.
+
+I've Previously worked in training development and delivery, as well as in the fields of psychology, education, technology and research. I'm passionate about new tech, AI, and the development of new social interaction dynamics through technological innovation. I'm obsessed with creating the perfect content for the right audience, ensuring the voice, tone, and technical level are precisely adjusted to meet business needs.
+
+At a personal level, I love working with people, but I am also independent and resolutive. This ensures I will deliver precise work whether I am part of a team or not.
