@@ -14,6 +14,8 @@ This is a digital version of my resume. Further information is available on my L
 
 # Personal Information
 
+ <p style="text-align:right"> ![My Profile Pic](/assets/images/linkedinprofilepic.jpg){:.border.shadow} </p> 
+
 ![My Profile Pic](/assets/images/linkedinprofilepic.jpg){:.border.shadow}
 
 &nbsp;
