@@ -78,4 +78,55 @@ analysis of the impact of new tech on the dynamics between people, education, ma
 
 &nbsp;
 
-# Education
+# High Education
+
+## Virtual Learning Envoronments Specialist
+
+*2016-2017.*
+
+* **Institution:** Virtual Educa, Organización de Estados Iberoamericanos y el Centro de Altos Estudios Universitarios.
+
+## Psychology Graduate
+
+*2003-2010.*
+
+* **Institution:** University of Buenos Aires, School of Psychology.
+
+# Courses
+
+<a href="https://www.linkedin.com/in/romina-soto-098b4139/" target="_blank">All certificates are available in my LinkedIn profile.</a>
+
+## University of Alberta
+
+* **Introduction to Software Product Management** (2019).
+* **Software Processes and Agile Practices** (2019).
+* **Client Needs and Software Requirements** (2019).
+* **Agile Planning for Software Products** (2019).
+* **Reviews and Metrics for Software Improvement** (2019).
+
+## Universidad Tecnológica Nacional (UTN)
+
+* **Software Tester - QA Manager** (2021).
+
+## Pluralsight
+
+* **Confluence: Getting Started** (2021).
+* **Confluence: Team Communication and Collaboration** (2021).
+* **Confluence: Content Administration and Customization** (2021).
+* **ISTQB® Foundation: Getting Started** (2021).
+* **ISTQB® Foundation: Static Testing** (2021).
+* **ISTQB® Foundation: Testing throughout the Software Development Lifecycle** (2021).
+* **Docker and Kubernetes: The Big Picture** (2021).
+* **Usability Testing Approaches for UX Design** (2021).
+* **Build or Contribute to Documentation with a Git-based Workflow** (2021).
+
+## LinkedIn
+
+* **Learn API Documentation with JSON and XML** (2020).
+* **Learning Confluence 2018** (2020).
+* **Learning Jira Software** (2020).
+
+## Udemy
+
+* **UX Design of Digital Products / Diseño UX de Productos Digitales** (2019).
+* **UX Design: Basic concepts for beginners / Conceptos basicos para principiantes** (2019).
