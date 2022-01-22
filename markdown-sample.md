@@ -38,7 +38,7 @@ You can use this to create an information hierarchy in your documents, and to ma
 
 ## Bold Text
 
-For **bold text** write this:
+For **bold text**, write this:
 
 ```
 **example text**
@@ -48,7 +48,7 @@ For **bold text** write this:
 
 ## Italic Text
 
-For *italic text* write this:
+For *italic text*, write this:
 
 ```
 *example text*
@@ -58,7 +58,7 @@ For *italic text* write this:
 
 ## Bold & Italic Text
 
-For ***bold & italic text*** write this:
+For ***bold & italic text***, write this:
 
 ```
 ***example text***
@@ -68,7 +68,7 @@ For ***bold & italic text*** write this:
 
 ## Underlined Text
 
-For <ins>underlined text</ins> we can use GitHub markdown like this:
+For <ins>underlined text</ins> we can use GitHub markdown, like this:
 
 ```
 <ins>example text</ins>
@@ -78,7 +78,7 @@ For <ins>underlined text</ins> we can use GitHub markdown like this:
 
 ## Strikethrough Text
 
-For ~~strikethroughs~~ write this:
+For ~~strikethroughs~~, write this:
 
 ```
 ~~example text~~
@@ -150,13 +150,13 @@ or this:
 
 # Code
 
-To write `inline code` write this:
+To write `inline code`, write this:
 
 ```
 `example text`
 ```
 
-To write a code block write this:
+To write a code block, write this:
 
 ![codeblock](/assets/images/using-markdown/img-code-01.png){:.border.shadow}
 
