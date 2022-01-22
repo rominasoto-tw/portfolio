@@ -20,7 +20,7 @@ ul.toc {
     a {
       @include link-colors($text-color, $main-color-1);
     }
-    overflow: visible;
+    @include overflow(visible);
     &.active {
       a {
         @include link-colors($main-color-1);
@@ -78,7 +78,7 @@ ul.toc {
 
 ul.toc--ellipsis {
   & > li {
-    @include overflow(visible);
+    @include overflow(hidden);
     text-overflow: ellipsis;
     white-space: nowrap;
   }
