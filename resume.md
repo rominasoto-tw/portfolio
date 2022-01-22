@@ -26,7 +26,7 @@ This is a digital version of my resume. Further information is available on my L
 
 # Work Experience
 
-## Technical Writer & Communicator Ssr
+## Mercado Libre: Technical Writer & Communicator Ssr
 
 *Employed September 2021 - Continues.*
 
@@ -40,7 +40,7 @@ I also occassionally interview new candidates for my team.
 
 &nbsp;
 
-## Technical Writer
+## Intraway: Technical Writer
 
 *Employed November 2020 – September 2021.*
 
@@ -51,7 +51,7 @@ My current responsibilities include creating documentation in an agile online en
 
 &nbsp;
 
-## Technical Writer & Trainer
+## Kapsch Trafficcom: Technical Writer & Trainer
 
 *Employed July 2019 - November 2020.*
 
@@ -62,7 +62,7 @@ I was also in charge of training sessions, demos, and system walkthroughs, for b
 
 &nbsp;
 
-## English Teacher
+## Lew Idiomas: English Teacher
 
 *Employed June 2012 - March 2020.*
 
@@ -72,7 +72,7 @@ I was also in charge of training sessions, demos, and system walkthroughs, for b
 
 &nbsp;
 
-## University Teacher
+## UBA: University Teacher
 
 *Employed July 2011 - June 2019.*
 
